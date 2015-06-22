@@ -3,7 +3,7 @@
  ECE 362 - Mini-Project C Source File - Fall 2014                   
 ***********************************************************************
                                                                                                                           
- Team ID: < ? >
+ Team ID: < 33 >
 
  Project Name: <Basketball Shotclock>
 
@@ -11,7 +11,7 @@
 
    - Team/Doc Leader: Adit Ghosh      Signature: ______________________
   
-   - Software Leader: < ? >      Signature: ______________________
+   - Software Leader:      Signature: ______________________
 
    - Interface Leader: < ? >     Signature: ______________________
 
@@ -26,35 +26,18 @@
 
 ***********************************************************************
 
- The objective of this Mini-Project is to .... < ? >
+ The objective of this Mini-Project is to create a Basketball	Shot-clock	buzzer	using	Assembly and	C programming	on	a	9S12	
+microcontroller.	This	designed	incorporated	a	proximity sensor,	LCD display,	ADT	music	
+output	and	buzzer	Peripherals.
 
 
 ***********************************************************************
 
- List of project-specific success criteria (functionality that will be
- demonstrated):
-
- 1.
-
- 2.
-
- 3.
-
- 4.
-
- 5.
+ Check out working video @ https://www.youtube.com/watch?v=ORSrQGQ9CoM
+ 
 
 ***********************************************************************
 
-  Date code started: < ? >
-
-  Update history (add an entry every time a significant change is made):
-
-  Date: < ? >  Name: < ? >   Update: < ? >
-
-  Date: < ? >  Name: < ? >   Update: < ? >
-
-  Date: < ? >  Name: < ? >   Update: < ? >
 
 
 ***********************************************************************
