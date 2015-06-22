@@ -26,7 +26,7 @@
 
 ***********************************************************************
 
- The objective of this Mini-Project is to create a Basketball	Shot-clock	buzzer	using	Assembly and	C programming	on	a	9S12	
+The objective of this Mini-Project is to create a Basketball	Shot-clock	buzzer	using	Assembly and	C programming	on	a	9S12	
 microcontroller.	This	designed	incorporated	a	proximity sensor,	LCD display,	ADT	music	
 output	and	buzzer	Peripherals.
 
